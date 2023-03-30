@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bgmg{
+    background-image: url(https://i0.wp.com/www.quotespedia.org/ywhypsaw/2019/07/25072019015.jpg?fit=1200%2C750&ssl=1);
+    height: 83vh;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.bulr{
+    background: black;
+    height: 83vh;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+
+}
+.box{
+    height: 150px;
+    width: 200px;
+    color: rgb(196, 150, 24);
+    background-color: aliceblue;
+    margin-left: 50px;
+   
+    
+}
+.Days{
+    height: 150px;
+    width: 200px;
+    color: rgb(196, 150, 24);
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    margin-left: 50px;
+}
+.Hours{
+    height: 150px;
+    width: 200px;
+    color: rgb(196, 150, 24);
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    margin-left: 50px;
+}
+
+.Seconds{
+    height: 150px;
+    width: 200px;
+    color: rgb(196, 150, 24);
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top: 300px;
+    margin-left: 50px;
+}
+.Minutes{
+    height: 150px;
+    width: 200px;
+    color: rgb(196, 150, 24);
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    margin-left: 50px;
+}
+.time{
+    display: flex;
+    justify-content: start;
+}
+.form{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(146, 159, 161);
+    margin-left: 80px;
+    border-radius: 10px;
+}
+.heading{
+    background-color: rgb(127, 8, 247);
+    height: 100px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform:capitalize;
+   
+    border-top-right-radius: 10px;
+    border-top-left-radius:10px ;
+    
+}
+ .days{
+    color: red;
+    font-size: 50px;
+    
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    
+ }
+
+.rest{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    text-transform: uppercase;
+}
+.btn2{
+    padding-left: 70px;
+    
+}
+.form2{
+    padding-left: 60px;
+}

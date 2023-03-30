@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-image: url(https://cdn.pixabay.com/photo/2018/09/04/10/27/never-stop-learning-3653430__480.jpg);
+    height: 83vh;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+{
+    color: aliceblue;
+}
+.main-box{
+    height: 100px;
+    width: auto;
+    background-color: aliceblue;
+    
+}
+.choo{
+    height: 50px;
+    width: 350px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+    margin-left: 45%;
+    border-radius: 3px;
+    align-items: center;
+}
+
+

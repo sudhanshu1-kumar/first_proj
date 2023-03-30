@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    height: 75px;
+    width: auto;
+    background-color: rgb(40, 40, 44);
+}
+.footer-text{
+    color: azure;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-weight: 600;
+    font-size: 20px;
+    
+    justify-content: center;
+    display: flex;
+}
